@@ -32,26 +32,11 @@ Work experience
 * Data Analysis Intern <span style="float: right;"><small>May 2018-Sept 2018</small></span>
   * Environment and Climate Change Canada ([ECCC](https://www.canada.ca/en/environment-climate-change.html))
   * Data analysis and river water levels prediction in the Ottawa region.
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -60,6 +45,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
