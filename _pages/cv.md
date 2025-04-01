@@ -18,20 +18,20 @@ Education
 Work experience
 ======
 * Teaching Assistant & Research Assistant <span style="float: right;"><small>Spet 2020-Present</small></span>
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * University of Ottawa
+  * Teaching: Learning based Computer Vision (Pytorch \& TensorFlow); Introduction To Computing (Python, Java); Advanced Programming Concepts with C++.
 
-* Computer Vision Research Intern <span style="float: right;">Spet 2021-Apr 2022</span>
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Computer Vision Research Intern <span style="float: right;"><small>Spet 2021-Apr 2022</small></span>
+  * National Research Council Canada ([NRCC](https://nrc.canada.ca/en))
+  * Real-world computer vision tasks, including semantic segmentation, pedestrian detection and tracking, and trajectory prediction.
 
-* Distributed Systems Intern <span style="float: right;">Spet 2018-Dec 2018</span>
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-* Data Analysis Intern <span style="float: right;">May 2018-Sept 2018</span>
+* Distributed Systems Intern <span style="float: right;"><small>Spet 2018-Dec 2018</small></span>
+  * [Wind River Systems, Inc.](https://www.windriver.com/)
+  * Cloud computing system contributions (based on OpenStack) and automated cloud system installation.
+    
+* Data Analysis Intern <span style="float: right;"><small>May 2018-Sept 2018</small></span>
+  * Environment and Climate Change Canada ([ECCC](https://www.canada.ca/en/environment-climate-change.html))
+  * Data analysis and river water levels prediction in the Ottawa region.
   
 Skills
 ======
