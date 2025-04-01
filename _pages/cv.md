@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Teaching Assistant & Research Assistant <span style="float: right;">Spet 2020-Present</span>
+* Teaching Assistant & Research Assistant <span style="float: right;"><small>Spet 2020-Present</small></span>
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
