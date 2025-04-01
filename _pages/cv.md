@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-* Teaching Assistant & Research Assistant <span style="float: right;"><small>Spet 2020-Present</small></span>
+* Research Assistant <span style="float: right;"><small>Spet 2020-Present</small></span>
   * University of Ottawa
-  * Teaching: Learning based Computer Vision (Pytorch \& TensorFlow); Introduction To Computing (Python, Java); Advanced Programming Concepts with C++.
+  * Computer Vision, 4D Reconstruction, SLAM under dynamic environment, RVOS.
 
 * Computer Vision Research Intern <span style="float: right;"><small>Spet 2021-Apr 2022</small></span>
   * National Research Council Canada ([NRCC](https://nrc.canada.ca/en))
