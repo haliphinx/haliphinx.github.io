@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Teaching Assistant & Research Assistant <div align="right">Sept 2020-Present</div>
+* Teaching Assistant & Research Assistant <span style="float: right;">Right-aligned text</span>
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
