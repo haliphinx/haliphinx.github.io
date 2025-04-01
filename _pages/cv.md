@@ -17,20 +17,21 @@ Education
 
 Work experience
 ======
-* Teaching Assistant & Research Assistant <span style="float: right;">Right-aligned text</span>
+* Teaching Assistant & Research Assistant <span style="float: right;">Spet 2020-Present</span>
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
+* Computer Vision Research Intern <span style="float: right;">Spet 2021-Apr 2022</span>
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+* Distributed Systems Intern <span style="float: right;">Spet 2018-Dec 2018</span>
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+* Data Analysis Intern <span style="float: right;">May 2018-Sept 2018</span>
   
 Skills
 ======
