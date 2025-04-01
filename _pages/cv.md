@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Teaching Assistant & Research Assistant <div align="right">Sept 2020-Present</div>
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
