@@ -10,4 +10,4 @@ I’m a final year PhD Student from School of [EECS, University of Ottawa](https
 
 <strong><em> I am actively looking for industry/research intern starting in mid-2025 and full-time industry work starting in the end of 2025. Please feel free to reach out to me! </em></strong>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=lBoqN_BNN5IZuGaZ-_A2JKpVEtS-_6S_xAhwtsWDgOA&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=lBoqN_BNN5IZuGaZ-_A2JKpVEtS-_6S_xAhwtsWDgOA&co=ffffff&cmo=63a6f2&cmn=ff5900&ct=808080'></script>
