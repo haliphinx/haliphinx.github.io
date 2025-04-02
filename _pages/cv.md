@@ -75,4 +75,18 @@ Projects
 
 * [Sequence Based SLAM](https://github.com/haliphinx/SEQ_ORB_SLAM2) <span style="float: right;"><small>2019</small></span>
   * Selected the sequence based method with sequence descriptor to reduce the time usage for loop detection.  
+
+Honors&Awards
+======
+* National Research Council Canada
+  * Outstanding Intership Award <span style="float: right;"><small>Apr 2022</small></span>
   
+* University of Ottawa
+  * Hasan Ural Memorial Scholarship <span style="float: right;"><small>Oct 2021</small></span>
+  * International Experience Scholarship <span style="float: right;"><small>May 2021</small></span>
+  * International Admission Scholarship  <span style="float: right;"><small>Aug 2020</small></span>
+  
+* Huazhong University of Science and Technology
+  * Excellent Graduate Award <span style="float: right;"><small>Jun 2017</small></span>
+  * Excellent Student Cadre <span style="float: right;"><small>Oct 2016</small></span>
+  * Individual Scholarship(Social Welfare)  <span style="float: right;"><small>Mar 2016</small></span>
