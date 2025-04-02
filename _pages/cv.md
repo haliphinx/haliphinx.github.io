@@ -17,11 +17,11 @@ Education
 
 Publications
 ======
-* Libo Long, *Xiao Hu*, Jochen Lang. "Robustness Analysis: Are Optical Flow Methods Safe to Use? ". Accepted by Conference on Computer Vision and Pattern Recognition (CVPR) 2025.
-* *Xiao Hu*, Libo Long, Jochen Lang. "Motion Decoupled 3D Gaussian Splatting for Dynamic Object Representation". Proceedings of the 39th AAAI Conference on Artificial Intelligence 2025.
-* Libo Long, *Xiao Hu*, Jochen Lang. "Learning to Handle Large Obstructions in Video Frame Interpolation". Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM) 2024.
-* Xiao Hu, Basavaraj Hampiholi, Heiko Neumann, Jochen Lang. "Temporal Context Enhanced Referring Video Object Segmentation". Winter Conference on Applications of Computer Vision (WACV) 2024.
-* Xiao Hu,Jochen Lang. "DOE-SLAM: Dynamic Object Enhanced Visual SLAM". Sensors 2021, 21(9), 3091.
+* Libo Long, **Xiao Hu**, Jochen Lang. "Robustness Analysis: Are Optical Flow Methods Safe to Use? ". Accepted by Conference on Computer Vision and Pattern Recognition (CVPR) 2025.
+* **Xiao Hu**, Libo Long, Jochen Lang. "Motion Decoupled 3D Gaussian Splatting for Dynamic Object Representation". Proceedings of the 39th AAAI Conference on Artificial Intelligence 2025.
+* Libo Long, **Xiao Hu**, Jochen Lang. "Learning to Handle Large Obstructions in Video Frame Interpolation". Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM) 2024.
+* **Xiao Hu**, Basavaraj Hampiholi, Heiko Neumann, Jochen Lang. "Temporal Context Enhanced Referring Video Object Segmentation". Winter Conference on Applications of Computer Vision (WACV) 2024.
+* **Xiao Hu**,Jochen Lang. "DOE-SLAM: Dynamic Object Enhanced Visual SLAM". Sensors 2021, 21(9), 3091.
 
 
 Work experience
