@@ -17,6 +17,7 @@ Education
 
 Publications
 ======
+* **Xiao Hu**, Heiko Neumann, Jochen Lang. "A Filtering Framework for Semi-online Referring Video Object Segmentation". Proceedings of the 33rd ACM International Conference on Multimedia (**ACM MM**) 2025.
 * Libo Long, **Xiao Hu**, Jochen Lang. "Shape and Texture: What Influences Reliable Optical Flow Estimation?". Accepted by Conference on Computer Vision and Pattern Recognition (**CVPR**) 2025.
 * **Xiao Hu**, Libo Long, Jochen Lang. "Motion Decoupled 3D Gaussian Splatting for Dynamic Object Representation". Proceedings of the 39th **AAAI** Conference on Artificial Intelligence 2025.
 * Libo Long, **Xiao Hu**, Jochen Lang. "Learning to Handle Large Obstructions in Video Frame Interpolation". Proceedings of the 32nd ACM International Conference on Multimedia (**ACM MM**) 2024.
