@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Science, University of Ottawa, 2025 (expected)
 * M.S. in Computer Science, University of Ottawa, 2020
-* B.S. in Computer Science, HUazhong University of Science and Technology, 2017
+* B.S. in Computer Science, Huazhong University of Science and Technology, 2017
 
 Publications
 ======
@@ -42,12 +42,6 @@ Work experience
 * Data Analysis Intern <span style="float: right;"><small>May 2018-Sept 2018</small></span>
   * Environment and Climate Change Canada ([ECCC](https://www.canada.ca/en/environment-climate-change.html))
   * Data analysis and river water levels prediction in the Ottawa region.
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Projects
 ======
