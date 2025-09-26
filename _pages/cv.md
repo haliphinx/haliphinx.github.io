@@ -92,6 +92,3 @@ Honors&Awards
   * Excellent Student Cadre <span style="float: right;"><small>Oct 2016</small></span>
   * Individual Scholarship(Social Welfare)  <span style="float: right;"><small>Mar 2016</small></span>
 
-Tiny Projects
-======
-* [Car Condition Analysis](https://colab.research.google.com/drive/1heEdHthHo4R8T-H0NIw_xBcD5cYjDMq1?usp=sharing)
