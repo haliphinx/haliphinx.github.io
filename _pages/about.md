@@ -10,6 +10,4 @@ I’m a final year PhD Student from School of [EECS, University of Ottawa](https
 
 **Research of Interest:** 4D Reconstruction, SLAM, Referring Video Object Segmentation, Vision-based Spatial-Temporal Understanding.
 
-<strong><em> I am actively looking for full-time industry job starting in end-2025. Please feel free to reach out to me! </em></strong>
-
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=lBoqN_BNN5IZuGaZ-_A2JKpVEtS-_6S_xAhwtsWDgOA&co=ffffff&cmo=63a6f2&cmn=ff5900&ct=808080'></script>
