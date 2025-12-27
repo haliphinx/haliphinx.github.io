@@ -27,11 +27,11 @@ Publications
 
 Work experience
 ======
-* Noah's Ark Lab <span style="float: right;"><small>Spet 2020-Present</small></span>
+* Noah's Ark Lab <span style="float: right;"><small>June 2025-Dec 2025</small></span>
   * Montreal, Canada
   * World model enhanced VLN task.
 
-* Research Assistant <span style="float: right;"><small>Spet 2020-Present</small></span>
+* Research Assistant <span style="float: right;"><small>Spet 2020-Dec 2025</small></span>
   * University of Ottawa
   * Computer Vision, 4D Reconstruction, SLAM under dynamic environment, RVOS.
 
