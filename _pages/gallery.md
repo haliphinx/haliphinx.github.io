@@ -5,6 +5,9 @@ permalink: /gallery/
 ---
 
 {% assign gallery_images = site.static_files | where_exp: "file", "file.path contains '/images/gallery/'" | where_exp: "file", "file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.png' or file.extname == '.gif' or file.extname == '.webp'" %}
+{% assign gallery_images = site.static_files
+  | where_exp: "file", "file.path contains '/images/gallery/'"
+  | where_exp: "file", "file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.png' or file.extname == '.gif' or file.extname == '.webp'" %}
 
 <div class="photo-gallery">
   {% if gallery_images.size == 0 %}
